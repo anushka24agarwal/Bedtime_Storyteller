@@ -62,9 +62,14 @@ python main.py
 - After the story, you will be asked if you want another story or type "good night" to quit.
 - Invalid inputs (e.g. random characters) are rejected with a friendly prompt.
 
-
 ## Next Steps / Improvements
 If given 2 more hours, I would:
 1. Multi-language Support - Allow stories in different languages with cultural adaptations.
 2. Story category detection - Classify user’s request into types such as “animals,” “fantasy,” “friendship,” and use slightly different storyteller prompts for each category to produce more relevant stories.
 3. Age Specific Personalization - Ask the user for the child’s age (5–10) and tailor the story accordingly. The storyteller LLM would adjust sentence complexity, vocabulary choice and story content to match the child’s reading level.
+
+## Architecture Diagram
+<img src="architecture.png" alt="Architecture Diagram" width="500"/>
+
+## Output Screenshot
+![Output Screenshot](output.png)
