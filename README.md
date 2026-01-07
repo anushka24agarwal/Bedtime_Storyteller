@@ -22,6 +22,7 @@ A Python-based interactive bedtime story generator for children aged 5–10, fea
 | `prompts.py` | Contains all system and user prompt templates for both storyteller and judge. |
 | `requirements.txt` | Lists project dependencies to install with pip. |
 | `architecture.png` | Block diagram showing the system flow between user, storyteller, and judge. |
+| `output.png` | Screenshot of the output generated from the LLM |
 | `.env` | Stores your OpenAI API key (not included in the repo for security). |
 
 
